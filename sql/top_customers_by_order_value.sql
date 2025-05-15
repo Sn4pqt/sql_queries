@@ -1,5 +1,3 @@
--- Task: Find the 10 most profitable clients, as well as the number of their orders
--- Goal: Check which clients bring the most profit, and also make sure that the number of orders is calculated correctly
 SELECT * FROM orders;
 SELECT * FROM order_details;
 SELECT * FROM customers;

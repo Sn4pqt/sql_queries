@@ -1,5 +1,3 @@
--- Task: Find orders that either do not contain products or contain products with incorrect quantities
--- Goal: Check that all orders have products with positive quantities and there are no orders without products
 SELECT * FROM orders;
 SELECT * FROM order_details;
 
